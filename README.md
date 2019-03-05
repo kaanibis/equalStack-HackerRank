@@ -1,0 +1,1 @@
+# Equal Stack by HackerRank
